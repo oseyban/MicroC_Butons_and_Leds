@@ -1,0 +1,7 @@
+main
+	__FillZeros
+	GPIO_Digital_Input
+		GPIO_Config
+			GPIO_Clk_Enable
+	Button
+		Delay_500us

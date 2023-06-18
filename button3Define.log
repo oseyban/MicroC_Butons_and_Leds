@@ -1,0 +1,11 @@
+0	1	mikroCARM.exe -MSF -DBG -pSTM32F745VG -BIN -LHF -DL -SSA -O11111114 -fo16 -N"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Examples\button3Define.mcpar" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M7\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Examples\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M7\" "button3Define.c" "__Lib_Math.emcl" "__Lib_MathDouble.emcl" "__Lib_Delays.emcl" "__Lib_System_F7xx.emcl" "__Lib_GPIO_32F7xx_Vx_Defs.emcl" "__Lib_GPIO_32F7xx.emcl" "__Lib_Button.emcl"	 
+diagnostics: 0	122	Compilation Started	button3Define.c
+diagnostics: 15	123	Compiled Successfully	button3Define.c
+diagnostics: 0	127	All files Compiled in 94 ms	 
+hint: 0	1144	Used RX: 16 (100%)   Free RX: 0 (0%)	Used RX: 16 (100%)   Free RX: 0 (0%)
+hint: 0	1144	Static RAM (bytes): 8   Dynamic RAM (bytes): 327669	Static RAM (bytes): 8   Dynamic RAM (bytes): 327669
+hint: 0	1144	Used ROM (bytes): 2918 (0%)  Free ROM (bytes): 1045658 (100%)	Used ROM (bytes): 2918 (0%)  Free ROM (bytes): 1045658 (100%)
+diagnostics: 0	125	Project Linked Successfully	button3Define.mcpar
+diagnostics: 0	128	Linked in 641 ms	 
+diagnostics: 0	129	Project 'button3Define.mcpar' completed: 1000 ms	 
+diagnostics: 0	103	Finished successfully: 15 Mar 2023, 09:46:38	button3Define.mcpar
